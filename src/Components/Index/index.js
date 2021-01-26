@@ -8,6 +8,7 @@ import SocialMedia from '../SocialMedia';
 import Work from '../Work';
 
 
+
 export default class Index extends Component {
   render() {
     return (
@@ -19,6 +20,7 @@ export default class Index extends Component {
         <Profile />
         <About />
         <SocialMedia />
+        
         <Footer />
        
       </div>
